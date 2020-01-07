@@ -22,5 +22,7 @@ Progress:
 
 2020.01.07.1520 - Added 8 images ready for use to '/assets/images folder'.  Added html sections that are to be identical for each page.  Added a link in the head of each page to link to the style sheet "style.css" in '/assets/styles'.
 
-2020.01.07.1550 - Added responsive meta tag and associated comments to the head of each page.
+2020.01.07.1545 - Added responsive meta tag and associated comments to the head of each page.
+
+2020.01.07.1547 - Added page titles.  Corrected commit times for this and previous commit.
 
