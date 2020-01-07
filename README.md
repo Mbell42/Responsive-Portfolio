@@ -18,5 +18,7 @@ Instructions are located in the readme.md file in the following location: https:
 
 Progress:
 ------------
-2020.01.02.1810 - Initial commit. Added folder structure. Added the following files: index.html, contact.html, portfolio.html, style.css.
+2020.01.02.1810 - Initial commit. Added folder structure. Added the following files: index.html, contact.html, portfolio.html, style.css. Added intro, instructions, and progress sections to readme.md.
+
+2020.01.07.1520 - Added 8 images ready for use to '/assets/images folder'.  Added html sections that are to be identical for each page.  Added a link in the head of each page to link to the style sheet "style.css" in '/assets/styles'.
 
