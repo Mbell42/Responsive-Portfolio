@@ -26,3 +26,4 @@ Progress:
 
 2020.01.07.1547 - Added page titles.  Corrected commit times for this and previous commit.
 
+2020.01.07.1600 - Added copyright text to footer for each page.  Added html for form and submit button on Contact Page.
