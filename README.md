@@ -32,4 +32,4 @@ Progress:
 
 2020.01.09.1510 - Cleaned up html for index, contact, and portfolio pages.  Added and revised comments for ease of access.
 
-2020.01.09.~ -
+2020.01.09.1530- Added CSS comments to plan out styles. Researched Bootsrap CSS class and id names.  Fixed spelling errors in html for index page.
