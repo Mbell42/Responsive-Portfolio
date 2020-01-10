@@ -29,3 +29,7 @@ Progress:
 2020.01.07.1600 - Added copyright text to footer for each page.  Added html for form and submit button on Contact Page.
 
 2020.01.09.1455 - Added remaining html content for index, contact, and portfolio pages.  I reviewed the portfolio page I created in the previous project, and fixed outstanding html mistakes in it before using it as a reference for the current portfolio page.
+
+2020.01.09.1510 - Cleaned up html for index, contact, and portfolio pages.  Added and revised comments for ease of access.
+
+2020.01.09.~ -
