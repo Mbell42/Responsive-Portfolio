@@ -46,3 +46,5 @@ Progress:
 
 2020.01.11.0127 - Added 'Resources used' section to Readme.me. Researched Bootstrap CSS documentation for panels, sticky footers, and media.  
 
+2020.01.11.0150 - Researched Bootsrap CSS Grid system. For index.html, added .lead to main.p on index.html. For portfolio.html, I changed instances of '.cardText' class to '.lead'. 
+
