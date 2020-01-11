@@ -15,6 +15,10 @@ Instructions:
 ------------
 Instructions are located in the readme.md file in the following location: https://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/UCSD-SD-FSF-PT-12-2019-U-C/tree/master/02-CSS-Bootstrap/02-Homework
 
+Resources used:
+------------
+Bootstrap CSS CDN  - https://getbootstrap.com/docs/4.3/getting-started/introduction/.
+
 
 Progress:
 ------------
@@ -38,4 +42,7 @@ Progress:
 
 2020.01.10.2355 - Researced jumbotrons, navs, and navbars for Bootstrap CSS at 'https://getbootstrap.com/docs/3.3/components/'. For index, contact, and portfolio pages, I Updated html within 'jumbotron' to use Bootstrap CSS class selectors, and updated the navbar and navlinks to use Bootstrap CSS class selectors.
 
-2020.01.11.0130 - Researced Bootstrap CSS elements at 'https://getbootstrap.com/docs/3.3/content/'.  For index, contact, and portfolio pages, I updated html classes in the Nav section to better fit Bootstrap CSS selectors.
+2020.01.11.0017 - Researced Bootstrap CSS elements at 'https://getbootstrap.com/docs/3.3/content/'.  For index, contact, and portfolio pages, I updated html classes in the Nav section to better fit Bootstrap CSS selectors.
+
+2020.01.11.0127 - Added 'Resources used' section to Readme.me. Researched Bootstrap CSS documentation for panels, sticky footers, and media.  
+
