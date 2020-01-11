@@ -32,6 +32,8 @@ Progress:
 
 2020.01.10.1510 - Cleaned up html for index, contact, and portfolio pages.  Added and revised comments for ease of access.
 
-2020.01.10.1530- Added CSS comments to plan out styles. Researched Bootsrap CSS class and id names.  Fixed spelling errors in html for index page.
+2020.01.10.1530 - Added CSS comments to plan out styles. Researched Bootsrap CSS class and id names.  Fixed spelling errors in html for index page.
 
-2020.01.10.1530- Corrected readme file progress timestamps from 01.09 --> 01.10.  Changed 'header'class div to 'jumbotron' and moved 'jumbotron' div outside of 'container' div.for index, contact, and portfolio pages.  
+2020.01.10.2230 - Corrected readme file progress timestamps from 01.09 --> 01.10.  Changed 'header'class div to 'jumbotron' and moved 'jumbotron' div outside of 'container' div for index, contact, and portfolio pages.  
+
+2020.01.10.2355 - Researced jumbotrons, navs, and navbars for Bootstrap CSS at 'https://getbootstrap.com/docs/3.3/components/'. For index, contact, and portfolio pages, I Updated html within 'jumbotron' to use Bootstrap CSS class selectors, and updated the navbar and navlinks to use Bootstrap CSS class selectors.
