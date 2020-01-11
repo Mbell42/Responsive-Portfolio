@@ -28,8 +28,10 @@ Progress:
 
 2020.01.07.1600 - Added copyright text to footer for each page.  Added html for form and submit button on Contact Page.
 
-2020.01.09.1455 - Added remaining html content for index, contact, and portfolio pages.  I reviewed the portfolio page I created in the previous project, and fixed outstanding html mistakes in it before using it as a reference for the current portfolio page.
+2020.01.10.1455 - Added remaining html content for index, contact, and portfolio pages.  I reviewed the portfolio page I created in the previous project, and fixed outstanding html mistakes in it before using it as a reference for the current portfolio page.
 
-2020.01.09.1510 - Cleaned up html for index, contact, and portfolio pages.  Added and revised comments for ease of access.
+2020.01.10.1510 - Cleaned up html for index, contact, and portfolio pages.  Added and revised comments for ease of access.
 
-2020.01.09.1530- Added CSS comments to plan out styles. Researched Bootsrap CSS class and id names.  Fixed spelling errors in html for index page.
+2020.01.10.1530- Added CSS comments to plan out styles. Researched Bootsrap CSS class and id names.  Fixed spelling errors in html for index page.
+
+2020.01.10.1530- Corrected readme file progress timestamps from 01.09 --> 01.10.  Changed 'header'class div to 'jumbotron' and moved 'jumbotron' div outside of 'container' div.for index, contact, and portfolio pages.  
