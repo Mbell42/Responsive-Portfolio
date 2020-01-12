@@ -60,9 +60,9 @@ Progress:
 
 2020.01.11.1925 - 1 set of related changes made. For index, contact, and portfolio pages, I added necessary rows for Bootstrap Grid.
 
-2020.01.11.28 - 1 change made. For index, contact, and portfolio pages, I added the id 'myNavList' to the nav ul in the jumbotron.
+2020.01.11.1928 - 1 change made. For index, contact, and portfolio pages, I added the id 'myNavList' to the nav ul in the jumbotron.
 
-2020.01.11.~ -
+2020.01.11.2123 - For index, contact, and portfolio pages, I changed the id 'myNavList'to a class.
 
 2020.01.11.~ -
 
