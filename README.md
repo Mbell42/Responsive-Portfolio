@@ -74,6 +74,6 @@ Progress:
 
 2020.01.11.2217 - For index, contact, and portfolio pages, I completed grid and row setup for jumbotron.
 
-2020.01.11.~ -
+2020.01.11.2227 - For index, contact, and portfolio pages, I updated footer to include rows and columns correctly, and centered the footer text.  I updated the panel elements in Index to include rows.
 
 2020.01.11.~ -
