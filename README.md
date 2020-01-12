@@ -68,7 +68,7 @@ Progress:
 
 2020.01.11.2147 - Applied fixes to form on contact page. 
 
-2020.01.11.~ -
+2020.01.11.2204 - Applied class and format updates to image gallery in portfolio page.
 
 2020.01.11.~ -
 
