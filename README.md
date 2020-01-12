@@ -52,4 +52,6 @@ Progress:
 
 2020.01.11.1840 - For index, contact, and portfolio pages, I changed the div with class of '#bg' to an element 'main' with the role and class of 'main'.
 
-2020.01.11.1847 - For index, contact, and portfolio pages, I changed the div with class of '#fg'to have a class of 'panel'.  I also updated the footer of the portfolio page to be outside of the container, to match the other two pages.
+2020.01.11.1847 - 3 changes made. For index, contact, and portfolio pages, I changed the div with class of '#fg'to have a class of 'panel'.  I also updated the footer of the portfolio page to be outside of the container, to match the other two pages.  I also fixed the closing tag for 'main' on the index page.
+
+2020.01.11.1855 - 1 change made. For index and portfolio pages, I updated the class of all images to be 'media'.
