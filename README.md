@@ -64,7 +64,7 @@ Progress:
 
 2020.01.11.2123 - For index, contact, and portfolio pages, I changed the id 'myNavList'to a class.
 
-2020.01.11.~ -
+2020.01.11.2136 - Researched further on Bootstrap CSS grid system, and classes.  Updated form elements, classes, and ids on contact page.
 
 2020.01.11.~ -
 
