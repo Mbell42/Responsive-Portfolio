@@ -70,7 +70,7 @@ Progress:
 
 2020.01.11.2204 - Applied class and format updates to image gallery in portfolio page.
 
-2020.01.11.~ -
+2020.01.11.2207 - Applied quick fix to classes in gallery images in contact page.
 
 2020.01.11.~ -
 
