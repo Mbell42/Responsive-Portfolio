@@ -48,21 +48,23 @@
                 <!--This form contains three sections, titled 'Name', 'Email', and 'Message'. -->
                 <row class="row">
                     <form class="input-group">
-                        <span class="input-group-addon" id="basic-addon1">Name:</span>
+                        <span class="input-group-addon basic-addon1">Name:</span>
                         <input class="form-control" type="text" name="Name" placeholder="Example Name">
                     </form>
                     <form class="input-group">
-                        <span class="input-group-addon" id="basic-addon1">Email:</span>
-                        <input class="#formField" type="text" name="Email" placeholder="Example@yahoo.com">
+                        <span class="input-group-addon basic-addon1">Email:</span>
+                        <input class="form-control" type="text" name="Email" placeholder="Example@yahoo.com">
                     </form>
                     <form class="input-group">
-                        <span class="input-group-addon" id="basic-addon1">Message:</span>
-                        <input class="#formField" id="#formMessage" type="text" name="Message">
+                        <span class="input-group-addon basic-addon1">Message:</span>
+                        <input class="form-control" id="#formMessage" type="text" name="Message" placeholder="Input message here...">
                     </form>
                 </row>
                 <!-- This is the Submit button for the above form.-->
                 <row class="row">
-                    <button id="#button">Submit</button>
+                    <div class="btn-group" role="group">
+                        <button type="button" class="btn btn-default" id="#button">Submit</button>
+                    </div>
                 </row>
             </div>
         </main>

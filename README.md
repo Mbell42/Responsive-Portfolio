@@ -66,7 +66,7 @@ Progress:
 
 2020.01.11.2136 - Researched further on Bootstrap CSS grid system, and classes.  Updated form elements, classes, and ids on contact page.
 
-2020.01.11.~ -
+2020.01.11.2147 - Applied fixes to form on contact page. 
 
 2020.01.11.~ -
 
