@@ -84,6 +84,5 @@ Progress:
 
 2020.01.11.2335 - Applied styles to index, contact, and portfolio pages. Added style to jumbotron, nav, forms, form button, and bg.
 
-2020.01.11.23~ -
+2020.01.11.2354 - Applied final changes before submission to contact page, as well as stylesheet.
 
-2020.01.11.23~ -
