@@ -34,13 +34,15 @@
     <!-- Container for page-->
     <!-- This container is identical for each page. -->
     <div class="container">
-
         <!-- Background containing background from Toptal Subtle Patterns; fills the space from the Header to the Footer.  -->
         <!-- This Background is  identical for each page. -->
         <main role="main" class="flex-shrink-0">
             <!-- Foreground section that contains page title, and main content for the page. -->
             <div class="panel">
-                <h2 class="page-header">Contact</h2>
+                <row class="row">
+                    <h2 class="panel-heading">Contact</h2>
+                    <hr>
+                </row>
                 <!--This form contains three sections, titled 'Name', 'Email', and 'Message'. -->
                 <form id="#form">
                     Name:<br>
@@ -58,9 +60,11 @@
     </div>
     <!-- 'Sticky' Footer of the page. -->
     <!-- This footer is identical for each page.-->
-    <div class="#footer">
-        <p class="#footerText">Copyright ©</p>
-    </div>
+    <footer class="footer mt-auto py-3">
+        <div class="container">
+            <span class="text-muted">Copyright ©</span>    
+        </div>
+    </footer>
     
 </body>
 </html>

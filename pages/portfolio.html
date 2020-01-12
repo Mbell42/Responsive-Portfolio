@@ -33,17 +33,18 @@
     
     <!-- Container for page-->
     <!-- This container is identical for each page. -->
-    <div class="container">
-        
+    <div class="container">      
         <!-- Background containing background from Toptal Subtle Patterns; fills the space from the Header to the Footer.  -->
         <!-- This Background is  identical for each page. -->
         <main role="main" class="flex-shrink-0">
             <!-- Foreground section that contains page title, and main content for the page. -->
             <div class="panel">
-                <h2 class="page-header">Portfolio</h2>
+                <row class="row">
+                    <h2 class="panel-heading">Gallery</h2>
+                    <hr>
+                </row>
                 <!-- Images with titles of 5 previous projects. -->
                 <div class ="#imageRow">
-
                     <div class="#imageCard">
                         <img class="media" id="galleryImages" src="../assets/images/Insurgent-moviePoster.jpg" alt="Insurgent"
                             height="300" width="300">
@@ -94,8 +95,10 @@
     </div>
     <!-- 'Sticky' Footer of the page. -->
     <!-- This footer is identical for each page.-->
-    <div class="#footer">
-            <p class="#footerText">Copyright ©</p>
-    </div>
+    <footer class="footer mt-auto py-3">
+        <div class="container">
+            <span class="text-muted">Copyright ©</span>    
+        </div>
+    </footer>
 </body>
 </html>
