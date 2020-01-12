@@ -78,9 +78,9 @@ Progress:
 
 2020.01.11.2231 - Completed grid layout for index page.
 
-2020.01.11.~ -
+2020.01.11.2237 - Completed grid layout for contact page.
 
-2020.01.11.~ -
+2020.01.11.~ - 
 
 2020.01.11.~ -
 
