@@ -51,3 +51,5 @@ Progress:
 2020.01.11.0155 - For index, contact, and portfolio pages, I changed the class of h2 from placeholder '#contenthead' to 'page-header', and removed the 'hr' element from below the h2 element.
 
 2020.01.11.1840 - For index, contact, and portfolio pages, I changed the div with class of '#bg' to an element 'main' with the role and class of 'main'.
+
+2020.01.11.1847 - For index, contact, and portfolio pages, I changed the div with class of '#fg'to have a class of 'panel'.  I also updated the footer of the portfolio page to be outside of the container, to match the other two pages.
