@@ -20,14 +20,16 @@
     <!-- This header is identical for each page. -->
     <div class="jumbotron">
         <nav class="container-fluid">
-            <div class="navbar-header">
-                <h1 class="page-header">Matthew Bell</h1>
-                <ul class="nav nav-pills">
-                    <li class="nav-item"><a role="presentation" class="nav-link active" href="../index.html">Main</a></li>
-                    <li class="nav-item"><a role="presentation" class="nav-link" href="./contact.html">Contact</a></liclass="nav-item">
-                    <li class="nav-item"><a role="presentation" class="nav-link" href="./portfolio.html">Portfolio</a></li>
-                </ul>  
-            </div>
+            <row class="row">
+                <div class="navbar-header">
+                    <h1 class="page-header">Matthew Bell</h1>
+                    <ul class="nav nav-pills">
+                        <li class="nav-item"><a role="presentation" class="nav-link active" href="../index.html">Main</a></li>
+                        <li class="nav-item"><a role="presentation" class="nav-link" href="./contact.html">Contact</a></liclass="nav-item">
+                        <li class="nav-item"><a role="presentation" class="nav-link" href="./portfolio.html">Portfolio</a></li>
+                    </ul>  
+                </div>
+            </row>
         </div>
     </div>
     
@@ -44,27 +46,31 @@
                     <hr>
                 </row>
                 <!--This form contains three sections, titled 'Name', 'Email', and 'Message'. -->
-                <form id="#form">
-                    Name:<br>
-                    <input class="#formField" type="text" name="Name" placeholder="Example Name"><br>
-                    Email:<br>
-                    <input class="#formField" type="text" name="Email" placeholder="Example@yahoo.com"><br>
-                    Message:<br>
-                    <input class="#formField" id="#formMessage" type="text" name="Message">
-                </form>
-
+                <row class="row">
+                    <form id="#form">
+                        Name:<br>
+                        <input class="#formField" type="text" name="Name" placeholder="Example Name"><br>
+                        Email:<br>
+                        <input class="#formField" type="text" name="Email" placeholder="Example@yahoo.com"><br>
+                        Message:<br>
+                        <input class="#formField" id="#formMessage" type="text" name="Message">
+                    </form>
+                </row>
                 <!-- This is the Submit button for the above form.-->
-                <button id="#button">Submit</button>
-           </div>
+                <row class="row">
+                    <button id="#button">Submit</button>
+                </row>
+            </div>
         </main>
     </div>
     <!-- 'Sticky' Footer of the page. -->
     <!-- This footer is identical for each page.-->
-    <footer class="footer mt-auto py-3">
-        <div class="container">
-            <span class="text-muted">Copyright ©</span>    
-        </div>
-    </footer>
-    
+    <row class="row">
+        <footer class="footer mt-auto py-3">
+            <div class="container">
+                <span class="text-muted">Copyright ©</span>    
+            </div>
+        </footer>
+    </row>
 </body>
 </html>

@@ -57,3 +57,23 @@ Progress:
 2020.01.11.1855 - 1 change made. For index and portfolio pages, I updated the class of all images to be 'media'.
 
 2020.01.11.1903 - 1 change made. For index, contact, and portfolio pages, I updated the heading of each panel to be within a row, and updated their classes to be 'panel-heading'.
+
+2020.01.11.1925 - 1 set of related changes made. For index, contact, and portfolio pages, I added necessary rows for Bootstrap Grid.
+
+2020.01.11.~ -
+
+2020.01.11.~ -
+
+2020.01.11.~ -
+
+2020.01.11.~ -
+
+2020.01.11.~ -
+
+2020.01.11.~ -
+
+2020.01.11.~ -
+
+2020.01.11.~ -
+
+2020.01.11.~ -
