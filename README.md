@@ -72,7 +72,7 @@ Progress:
 
 2020.01.11.2207 - Applied quick fix to classes in gallery images in contact page.
 
-2020.01.11.~ -
+2020.01.11.2217 - For index, contact, and portfolio pages, I completed grid and row setup for jumbotron.
 
 2020.01.11.~ -
 
