@@ -82,7 +82,7 @@ Progress:
 
 2020.01.11.2304 - Completed grid layout for portfolio page.  Applied learnings from practice to update grid layout further for index, contact, and portfolio pages.
 
-2020.01.11.23~ -
+2020.01.11.2335 - Applied styles to index, contact, and portfolio pages. Added style to jumbotron, nav, forms, form button, and bg.
 
 2020.01.11.23~ -
 

@@ -1,20 +1,91 @@
-/* Bootstrap CSS Styles */
-
-
-
-
-
-
-
-
-/* Custom Styles */
-
 /* Universal styles */
 
-    /* container styles */
+    
+/* jumbotron styles */
+.container-fluid {
+    height: 160px;
+}
+
+.navbar-header {
+    margin-left: auto;
+    margin-right: auto;
+    width: fill;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #777777;
+}
+
+.nav-link {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+
+/* bg styles */
+.bg {
+    margin: auto;
+    min-height: calc(100vh - 58px); 
+    background-image: url("../images/vintage-wallpaper.png");
+}
+
+/* Contact page form styles */
+.submitForm {
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.input-group {
+    width: 800px;
+}
+.formButton {
+    margin-left: 10px;
+}
+.basic-addon1 {
+    width: 100px;
+}
+#formMessage {
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* container styles */
     .container
 
-        /* header styles */
+       
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    /* header styles */
             
             /* headWidth styles */
 
@@ -24,7 +95,7 @@
 
             /* navlinks styles */
     
-        /* bg styles */
+        /* main styles */
 
             /* fg styles */
 

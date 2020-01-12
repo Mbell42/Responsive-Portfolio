@@ -10,7 +10,7 @@
     <!-- Link to Boostrap CSS CDN -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <!-- Link to the external styles sheet -->
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="../assets/styles/style.css">
     
     <title>Contact</title>
 
@@ -23,14 +23,14 @@
             <row class="row">
                 <div class="col-md-4">
                     <div class="navbar-header">
-                        <h1 class="page-header">Contact</h1>
+                        <h1 class="page-header text-left">Contact</h1>
                     </div>
                 </div>
                 <div class="col-md-4">&nbsp;</div>
                 <div class="col-md-4">
-                    <ul class="nav nav-pills myNavList">
+                    <ul class="nav nav-pills">
                         <li class="nav-item"><a role="presentation" class="nav-link active" href="../index.html">Main</a></li>
-                        <li class="nav-item"><a role="presentation" class="nav-link" href="./contact.html">Contact</a></liclass="nav-item">
+                        <li class="nav-item"><a role="presentation" class="nav-link" href="./contact.html">Contact</a></li>
                         <li class="nav-item"><a role="presentation" class="nav-link" href="./portfolio.html">Portfolio</a></li>
                     </ul>  
                 </div>
@@ -40,7 +40,7 @@
     
     <!-- Container for page-->
     <!-- This container is identical for each page. -->
-    <div class="container">
+    <div class="container bg">
         <!-- Background containing background from Toptal Subtle Patterns; fills the space from the Header to the Footer.  -->
         <!-- This Background is  identical for each page. -->
         <main role="main" class="flex-shrink-0">
@@ -61,26 +61,30 @@
                         <!--This form contains three sections, titled 'Name', 'Email', and 'Message'. -->
                         <row class="row">
                             <div class="col-md">
-                                <form class="input-group">
-                                    <span class="input-group-addon basic-addon1">Name:</span>
-                                    <input class="form-control" type="text" name="Name" placeholder="Example Name">
-                                </form>
-                                <form class="input-group">
-                                    <span class="input-group-addon basic-addon1">Email:</span>
-                                    <input class="form-control" type="text" name="Email" placeholder="Example@yahoo.com">
-                                </form>
-                                <form class="input-group">
-                                    <span class="input-group-addon basic-addon1">Message:</span>
-                                    <input class="form-control" id="formMessage" type="text" name="Message" placeholder="Input message here...">
-                                </form>
+                                <div class="submitForm">
+                                    <form class="input-group">
+                                        <span class="input-group-addon basic-addon1">Name:</span>
+                                        <input class="form-control" type="text" name="Name" placeholder="Example Name">
+                                    </form>
+                                    <form class="input-group">
+                                        <span class="input-group-addon basic-addon1">Email:</span>
+                                        <input class="form-control" type="text" name="Email" placeholder="Example@yahoo.com">
+                                    </form>
+                                    <form class="input-group">
+                                        <span class="input-group-addon basic-addon1">Message:</span>
+                                        <input class="form-control" id="formMessage" type="text" name="Message" placeholder="Input message here...">
+                                    </form>
+                                </div>
                             </div>
                         </row>
                         <!-- This is the Submit button for the above form.-->
                         <row class="row">
                             <div class="col-md">
-                                <div class="btn-group" role="group">
-                                    <button type="button" class="btn btn-default" id="submitButton">Submit</button>
-                                </div>
+                                <div class="formButton">
+                                    <div class="btn-group" role="group">
+                                        <button type="button" class="btn btn-default" id="submitButton">Submit</button>
+                                    </div>
+                                </div>       
                             </div>
                         </row>
                     </div>
