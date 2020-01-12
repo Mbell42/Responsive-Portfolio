@@ -49,3 +49,5 @@ Progress:
 2020.01.11.0150 - Researched Bootsrap CSS Grid system. For index.html, added .lead to main.p on index.html. For portfolio.html, I changed instances of '.cardText' class to '.lead'. 
 
 2020.01.11.0155 - For index, contact, and portfolio pages, I changed the class of h2 from placeholder '#contenthead' to 'page-header', and removed the 'hr' element from below the h2 element.
+
+2020.01.11.1840 - For index, contact, and portfolio pages, I changed the div with class of '#bg' to an element 'main' with the role and class of 'main'.
