@@ -80,10 +80,10 @@ Progress:
 
 2020.01.11.2237 - Completed grid layout for contact page.
 
-2020.01.11.~ - 
+2020.01.11.2304 - Completed grid layout for portfolio page.  Applied learnings from practice to update grid layout further for index, contact, and portfolio pages.
 
-2020.01.11.~ -
+2020.01.11.23~ -
 
-2020.01.11.~ -
+2020.01.11.23~ -
 
-2020.01.11.~ -
+2020.01.11.23~ -

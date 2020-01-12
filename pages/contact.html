@@ -44,40 +44,52 @@
         <!-- Background containing background from Toptal Subtle Patterns; fills the space from the Header to the Footer.  -->
         <!-- This Background is  identical for each page. -->
         <main role="main" class="flex-shrink-0">
+            <row class="row">
+                <div class="col-md">&nbsp;</div>
+            </row>
             <!-- Foreground section that contains page title, and main content for the page. -->
-            <div class="panel">
-                <row class="row">
-                    <div class="col-md">
-                        <h2 class="panel-heading">Contact</h2>
+            <row class="row">
+                <div class="col-md-1">&nbsp;</div>
+                <div class="col-md-10">
+                    <div class="panel">
+                        <row class="row">
+                            <div class="col-md">
+                                <h2 class="panel-heading">Contact</h2>
+                            </div>
+                            <hr>
+                        </row>
+                        <!--This form contains three sections, titled 'Name', 'Email', and 'Message'. -->
+                        <row class="row">
+                            <div class="col-md">
+                                <form class="input-group">
+                                    <span class="input-group-addon basic-addon1">Name:</span>
+                                    <input class="form-control" type="text" name="Name" placeholder="Example Name">
+                                </form>
+                                <form class="input-group">
+                                    <span class="input-group-addon basic-addon1">Email:</span>
+                                    <input class="form-control" type="text" name="Email" placeholder="Example@yahoo.com">
+                                </form>
+                                <form class="input-group">
+                                    <span class="input-group-addon basic-addon1">Message:</span>
+                                    <input class="form-control" id="formMessage" type="text" name="Message" placeholder="Input message here...">
+                                </form>
+                            </div>
+                        </row>
+                        <!-- This is the Submit button for the above form.-->
+                        <row class="row">
+                            <div class="col-md">
+                                <div class="btn-group" role="group">
+                                    <button type="button" class="btn btn-default" id="submitButton">Submit</button>
+                                </div>
+                            </div>
+                        </row>
                     </div>
-                    <hr>
-                </row>
-                <!--This form contains three sections, titled 'Name', 'Email', and 'Message'. -->
-                <row class="row">
-                    <div class="col-md">
-                        <form class="input-group">
-                            <span class="input-group-addon basic-addon1">Name:</span>
-                            <input class="form-control" type="text" name="Name" placeholder="Example Name">
-                        </form>
-                        <form class="input-group">
-                            <span class="input-group-addon basic-addon1">Email:</span>
-                            <input class="form-control" type="text" name="Email" placeholder="Example@yahoo.com">
-                        </form>
-                        <form class="input-group">
-                            <span class="input-group-addon basic-addon1">Message:</span>
-                            <input class="form-control" id="formMessage" type="text" name="Message" placeholder="Input message here...">
-                        </form>
-                    </div>
-                </row>
-                <!-- This is the Submit button for the above form.-->
-                <row class="row">
-                    <div class="col-md">
-                        <div class="btn-group" role="group">
-                            <button type="button" class="btn btn-default" id="submitButton">Submit</button>
-                        </div>
-                    </div>
-                </row>
-            </div>
+                </div>
+                <div class="col-md-1">&nbsp;</div>
+            </row>
+            <row class="row">
+                <div class="col-md">&nbsp;</div>
+            </row>
         </main>
     </div>
     <!-- 'Sticky' Footer of the page. -->
