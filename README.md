@@ -1,4 +1,4 @@
-# Responsive-Portfolio
+# UCSD-CodingBootCamp Responsive Portfolio
 Homework-project-02
 
 Intro:
